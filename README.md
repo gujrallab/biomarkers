@@ -3,9 +3,9 @@
 ## Scripts
 
 * *Hyperparameter_optimization_1.py : Epoch and Batch Size Optimization
-* *Hyperparameter_optimization_2.py : Weight Initializer, Optimizer & Activation Function 
+* *Hyperparameter_optimization_2.py : Weight Initializer, Optimizer & Activation Function Optimization
 * *Hyperparameter_optimization_3.py : Hidden Layers, Nodes per Hidden Layer & Dropout Optimization
-* *Permutation_Gene_importance.py : Gene Importance
+* *Permutation_Gene_importance.py : Gene Importance Calculation
 * *Cross_validation_error.py : Cross Entropy Calculation
 * *Matrix_pre_processing.py : Convert matrix into final matrix of mean gene values
 
