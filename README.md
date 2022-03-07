@@ -12,6 +12,8 @@
 ## Data
 
 * *final_matrix.csv : Matrix of Genetic Data of Each Patient and Response
+* *recursive_elimination_genes_biomarkerID.csv : Genes of Interest
+
 
 ## Prerequisites
 
