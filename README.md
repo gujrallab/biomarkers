@@ -2,7 +2,7 @@
 
 ## Scripts
 
-**Hyperparameter_optimization_1.py : Epoch and Batch Size Optimization
+* *Hyperparameter_optimization_1.py : Epoch and Batch Size Optimization
 * *Hyperparameter_optimization_2.py : Weight Initializer, Optimizer & Activation Function 
 * *Hyperparameter_optimization_3.py : Hidden Layers, Nodes per Hidden Layer & Dropout Optimization
 * *Permutation_Gene_importance.py : Gene Importance
